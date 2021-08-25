@@ -710,3 +710,4 @@ Read [more](https://www.geeksforgeeks.org/sql-trigger-student-database/).
 * https://www.geeksforgeeks.org/transaction-isolation-levels-dbms/
 * https://www.w3schools.com/sql/
 * https://www.w3schools.com/sql/default.asp
+* https://sqlbolt.com/lesson/select_queries_order_of_execution
